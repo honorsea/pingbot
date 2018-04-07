@@ -1,0 +1,1 @@
+:discord ping <IP Address> -t -l 65500 goto :discord
